@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<umbTextpage guid="ae54ea5d-3296-455e-a711-9b0a5337e8de" id="1053" nodeName="Getting started" isDoc="" updated="2014-02-21T17:48:26.543Z" parentGUID="31269286-f269-4c39-8e60-7af93120079e" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="2" published="true">
+  <umbracoNaviHide>0</umbracoNaviHide>
+  <bodyText><![CDATA[
+<p>You've installed Umbraco and the basic Simple website.</p>
+
+<p>Edit the text on the homepage and create a site structure by
+adding new texpages to your site. This is all done in the
+<strong>Content</strong> section.</p>
+
+<p>If you find the editing options provided by the Simple site too
+limited for you needs, simply add more properties to the page by
+going to the <strong>Settings</strong> section, expanding the
+<strong>Document Types</strong> item and adding new properties on
+the <strong>Generic Properties</strong> tab. You can find more
+information about <a
+href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/document-types"
+ title="About Umbraco Document Types">document types and
+properties</a> at the <a href="http://umbraco.org"
+title="The Umbraco Website">Umbraco website</a>.</p>
+
+<p>You'll probably want to personalize your site by changing the
+current design. This is also done in the <strong>Settings</strong>
+section, either by editing the CSS styles and HTML templates or by
+selecting and applying a Skin. Umbraco uses master templates, so
+the main, common markup is placed in the <strong>Starterkit
+Master</strong> template, while the Homeage and Textpage have
+separate templates for their unique layouts. You can find more
+information about <a
+href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/templates"
+ title="Umbraco Templates and Stylesheets">templates and css</a> in
+umbraco at the umbraco website.</p>
+
+<p>Once you're happy with your site's design, you might want to add
+more functionality, such as automated navigation. This is done by
+<a
+href="http://umbraco.org/help-and-support/video-tutorials/getting-started"
+ title="Umbraco Modules">installing Umbraco modules</a>.</p>
+]]></bodyText>
+</umbTextpage>
