@@ -1,42 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<umbTextpage guid="e19e5348-d73e-4c6c-a010-8cf1361a8154" id="1052" nodeName="Go further" isDoc="" updated="2014-02-27T13:08:30.657Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="1" published="true">
+<umbTextpage guid="e19e5348-d73e-4c6c-a010-8cf1361a8154" id="1052" nodeName="Go further" isDoc="" updated="2014-02-27T13:53:40.2245797+05:30" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="1" published="true">
   <umbracoNaviHide>0</umbracoNaviHide>
-  <bodyText><![CDATA[
-<p>The Simple Starter Kit only scratches the surface of what's
-possible with Umbraco. Below the Simple Starter Kit and its modules
-lies a great architecture that lets you implement whatever you
-need.</p>
-
-<p>With Umbraco you've finally got a solid, open and reliable
-platform for websites as basic as the Simple site, and Umbraco can
-be rapidly expanded to support multi-language websites,
-collaboration platforms and intra/extranets, to name just a
-few.</p>
-
-<p>Advanced functionality is created with Umbraco macros, built
-with XSLT and Umbraco's award-winning .NET integration, including
-full support for any .NET User or Custom control. Create and
-integrate your own .NET macros in mere minutes with point and click
-simplicity. Simply copy your controls to the Umbraco website, go to
-the <strong>Developer</strong> section and create a new macro,
-selecting your control from the list.</p>
-
-<p>You can also use <a
-href="http://umbraco.org/help-and-support/video-tutorials/getting-started/working-with-webmatrix"
- title="Working with Razor">Microsoft's Razor</a> syntax to quickly
-add dynamic functionality to your site.</p>
-
-<p>We've also gathered the best community macros into a repository
-that's also accessed from the <strong>Developer</strong> section,
-in the <strong>Packages</strong> area. You can find more
-information <a
-href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/what-are-macros"
- title="About creating Umbraco macros">about creating macros</a>,
-on the Umbraco website.</p>
-
-<p>The sky is the limit with Umbraco, and you have the benefit a
-friendly community, training, and guaranteed support. Find out how
-to <a href="http://umbraco.org/help-and-support"
-title="Get Umbraco Support">get help</a>.</p>
-]]></bodyText>
+  <bodyText><![CDATA[<p>My Test string</p>
+<p>The Simple Starter Kit only scratches the surface of what's possible with Umbraco. Below the Simple Starter Kit and its modules lies a great architecture that lets you implement whatever you need.</p>
+<p>With Umbraco you've finally got a solid, open and reliable platform for websites as basic as the Simple site, and Umbraco can be rapidly expanded to support multi-language websites, collaboration platforms and intra/extranets, to name just a few.</p>
+<p>Advanced functionality is created with Umbraco macros, built with XSLT and Umbraco's award-winning .NET integration, including full support for any .NET User or Custom control. Create and integrate your own .NET macros in mere minutes with point and click simplicity. Simply copy your controls to the Umbraco website, go to the <strong>Developer</strong> section and create a new macro, selecting your control from the list.</p>
+<p>You can also use <a href="http://umbraco.org/help-and-support/video-tutorials/getting-started/working-with-webmatrix" title="Working with Razor">Microsoft's Razor</a> syntax to quickly add dynamic functionality to your site.</p>
+<p>We've also gathered the best community macros into a repository that's also accessed from the <strong>Developer</strong> section, in the <strong>Packages</strong> area. You can find more information <a href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/what-are-macros" title="About creating Umbraco macros">about creating macros</a>, on the Umbraco website.</p>
+<p>The sky is the limit with Umbraco, and you have the benefit a friendly community, training, and guaranteed support. Find out how to <a href="http://umbraco.org/help-and-support" title="Get Umbraco Support">get help</a>.</p>]]></bodyText>
 </umbTextpage>
