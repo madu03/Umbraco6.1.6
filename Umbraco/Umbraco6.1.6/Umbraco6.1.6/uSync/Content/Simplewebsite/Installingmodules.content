@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<umbTextpage guid="565aa175-f378-4fff-b36c-08133d4c60de" id="1051" nodeName="Installing modules" isDoc="" updated="2014-02-27T13:08:30.66Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="0" published="true">
+<umbTextpage guid="565aa175-f378-4fff-b36c-08133d4c60de" id="1051" nodeName="Installing modules" isDoc="" updated="2014-02-27T16:13:35.16Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="0" published="true">
   <umbracoNaviHide>0</umbracoNaviHide>
   <bodyText><![CDATA[
 <p>Umbraco modules encapsulate specific bits of advanced

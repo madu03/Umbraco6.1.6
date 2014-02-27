@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<umbTextpage guid="e19e5348-d73e-4c6c-a010-8cf1361a8154" id="1052" nodeName="Go further" isDoc="" updated="2014-02-27T14:10:25.7941266+05:30" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="1" published="true">
+<umbTextpage guid="e19e5348-d73e-4c6c-a010-8cf1361a8154" id="1052" nodeName="Go further" isDoc="" updated="2014-02-27T16:13:35.13Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="1" published="true">
   <umbracoNaviHide>0</umbracoNaviHide>
   <bodyText><![CDATA[<p><span style="font-size: 16px;">The Simple Starter Kit only scratches the surface of what's possible with Umbraco. Below the Simple Starter Kit and its modules lies a great architecture that lets you implement whatever you need.</span></p>
 <p>With Umbraco you've finally got a solid, open and reliable platform for websites as basic as the Simple site, and Umbraco can be rapidly expanded to support multi-language websites, collaboration platforms and intra/extranets, to name just a few.</p>
