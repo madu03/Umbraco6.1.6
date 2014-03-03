@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<umbTextpage guid="ef209f83-70f5-4891-aefb-bec531a033ee" id="1053" nodeName="Getting started" isDoc="" updated="2014-02-27T16:13:35.107Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="2" published="true">
+<umbTextpage guid="ef209f83-70f5-4891-aefb-bec531a033ee" id="1053" nodeName="Getting started" isDoc="" updated="2014-03-03T12:34:48.393Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="2" published="true">
   <umbracoNaviHide>0</umbracoNaviHide>
   <bodyText><![CDATA[
 <p>You've installed Umbraco and the basic Simple website.</p>

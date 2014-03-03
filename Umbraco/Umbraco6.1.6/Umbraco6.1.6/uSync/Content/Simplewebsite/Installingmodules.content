@@ -1,30 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<umbTextpage guid="565aa175-f378-4fff-b36c-08133d4c60de" id="1051" nodeName="Installing modules" isDoc="" updated="2014-02-27T16:13:35.16Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="0" published="true">
+<umbTextpage guid="565aa175-f378-4fff-b36c-08133d4c60de" id="1051" nodeName="Installing modules" isDoc="" updated="2014-03-03T12:34:48.597Z" parentGUID="d1ec628a-f2bd-4fc4-a1f3-d56f866d23a3" nodeTypeAlias="umbTextpage" templateAlias="umbTextpage" sortOrder="0" published="true">
   <umbracoNaviHide>0</umbracoNaviHide>
-  <bodyText><![CDATA[
-<p>Umbraco modules encapsulate specific bits of advanced
-functionality that are easily added to your website.</p>
-
-<p>Once installed, Umbraco modules are open source and easy to
-customize if you want to modify the behavior for your specific
-needs.<br />
- Because Umbraco modules are provided under the MIT license you are
-free to use and modify them any way you want, with no strings
-attached.</p>
-
-<p>To add Umbraco modules to your website, go to the
-<strong>Settings</strong> section, expand the
-<strong>Templates</strong> item, select the <strong>Starterkit
-Master</strong> template, then click the <strong>Customize
-Skin</strong> button on the toolbar.</p>
-
-<p>Umbraco modules are available for various kinds of navigation, a
-sitemap, social media feeds, and a contact form. The list of
-available Umbraco modules is growing rapidly and is automatically
-updated from a central source, always fresh and current.</p>
-
-<p><a href="http://umbraco.org/get-started"
-title="Get Started with Umbraco">Get more information</a> about the
-umbraco way.</p>
-]]></bodyText>
+  <bodyText><![CDATA[<p><span style="font-size: 16px;">Umbraco modules encapsulate specific bits of advanced functionality that are easily added to your website.</span></p>
+<p>Once installed, Umbraco modules are open source and easy to customize if you want to modify the behavior for your specific needs.<br /> Because Umbraco modules are provided under the MIT license you are free to use and modify them any way you want, with no strings attached.</p>
+<p>To add Umbraco modules to your website, go to the <strong>Settings</strong> section, expand the <strong>Templates</strong> item, select the <strong>Starterkit Master</strong> template, then click the <strong>Customize Skin</strong> button on the toolbar.</p>
+<p>Umbraco modules are available for various kinds of navigation, a sitemap, social media feeds, and a contact form. The list of available Umbraco modules is growing rapidly and is automatically updated from a central source, always fresh and current.</p>
+<p><a href="http://umbraco.org/get-started" title="Get Started with Umbraco">Get more information</a> about the umbraco way.</p>]]></bodyText>
 </umbTextpage>
